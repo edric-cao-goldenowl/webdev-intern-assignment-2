@@ -58,7 +58,7 @@ Don't forget to add `README.md` which includes guide to run your project locally
 
 **GOOD LUCK!!!**
 
-![Your Code Work](./screenshots/meme.jpeg)
+![Your Code Work](./screenshots/meme.png)
 
 # Contributors
 
