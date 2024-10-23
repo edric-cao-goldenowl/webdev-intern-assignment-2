@@ -16,7 +16,6 @@ This is the instruction for web developer intern assignment at [Golden Owl](http
 ### Nice to have:
 
 - Responsive design (look good on all devices: desktops, tablets & mobile phones).
-- Smooth animations (just do what you think is good).
 - Setup project use Docker.
 - Deploy the application to go live.
 
