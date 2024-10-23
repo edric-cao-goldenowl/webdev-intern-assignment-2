@@ -14,7 +14,7 @@ This is the instruction for web developer intern assignment at [Golden Owl](http
 - Write a feature report
     -   There will be 4 levels including: >=8 points, 8 points > && >=6 points, 6 points > && >= 4 points, < 4 points
     -   Statistics of the number of students with scores in the above 4 levels by subjects.
-
+    -   Find the top student of block A including (math, physics, chemistry)
 ### Nice to have:
 
 - Responsive design (look good on all devices: desktops, tablets & mobile phones).
