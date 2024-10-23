@@ -9,12 +9,10 @@ This is the instruction for web developer intern assignment at [Golden Owl](http
 
 ### Must have:
 - The conversion of raw data into the database must be coded and located in this source code. (**hint**: recommend use migration and seeder)
-- Each subject will have 1 object.
 - Write a feature to check score from registration number input
-- Write a feature report
-    -   There will be 4 levels including: >=8 points, 8 points > && >=6 points, 6 points > && >= 4 points, < 4 points
-    -   Statistics of the number of students with scores in the above 4 levels by subjects.
-    -   Find the top student of group A including (math, physics, chemistry)
+- Write a feature report. There will be 4 levels including: >=8 points, 8 points > && >=6 points, 6 points > && >= 4 points, < 4 points
+    - Statistics of the number of students with scores in the above 4 levels by subjects.
+- List top 10 students of group A including (math, physics, chemistry)
 ### Nice to have:
 
 - Responsive design (look good on all devices: desktops, tablets & mobile phones).
@@ -26,19 +24,19 @@ This is the instruction for web developer intern assignment at [Golden Owl](http
 
 ### Frontend
 You can use any front-end library/framework like React, Angular, Vue, ... or just simple things with HTML + CSS + Javascript (JQuery).
+- For JS intern use React you need to have: 
+  * React Hooks
 - Fonts (optional);
   - [https://fonts.google.com/specimen/Rubik?query=Rubik](https://fonts.google.com/specimen/Rubik?query=Rubik)
-- You can use some available interfaces such as: AdminLTe, TailAdmin...
+- You can use some available interfaces such as: [AdminLTe](https://adminlte.io/), [TailAdmin](https://tailadmin.com/)...
   
 ### Backend: 
 Choose one of your applied back-end libraries/frameworks: Laravel(PHP), Ruby on Rail, NestJS (NodeJs), Django (Python), ... or a structure that you come up with yourselt. 
-Need form validation and logic tightening.
-- OOP programming for object-oriented languages
-- For JS intern you need to have: 
-  * Use TypeScript (Type, Interface, Omit, Partial...)
-  * React Hooks (useState, useEffect, useCallback...)
-- Use ORM for interacting with DB
-- DB: You can use postgreSQL, Mysql, mongoDB... to manage or cache the data. 
+- **Mandatory** use of **OOP programming** for managing subjects.
+- Need form validation and logic tightening.
+- For Js, use TypeScript is a plus.
+- Use ORM for interacting with Database.
+- Database: You can use postgreSQL, Mysql, mongoDB... to manage or cache the data. 
 
 ### Deployment
 Some providers allow free deployment for the trial version  (note: Maybe some suppliers will update their policies and prices)
